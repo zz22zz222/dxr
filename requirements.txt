@@ -14,14 +14,14 @@ configobj==5.0.6 \
 elasticsearch==1.6.0 \
     --hash=sha256:8661e41747b885c112d942b528fec3e96e1036b5c6713aa605f2fe24b61846c2 \
     --hash=sha256:90c8596e964af79029652d2734420355990667146b8211f240f99c8b432b0bac
-Flask==0.10.1 \
+Flask==0.12.3 \
     --hash=sha256:4c83829ff83d408b5e1d4995472265411d2c414112298f2eb4b359d9e4563373
 futures==3.0.3 \
     --hash=sha256:04afa2a06ab7dcca9d81717b420a7a14826061e9b2614a5c77dd24c75ccf97e4 \
     --hash=sha256:2fe2342bb4fe8b8e217f0d21b5921cbe5408bf966d9f92025e707e881b198bed
 itsdangerous==0.24 \
     --hash=sha256:cbb3fcf8d3e33df861709ecaf89d9e6629cff0a217bc2848f1b41cd30d360519
-Jinja2==2.7.3 \
+Jinja2==2.11.3 \
     --hash=sha256:2e24ac5d004db5714976a04ac0e80c6df6e47e98c354cb2c0d82f8879d4f8fdb
 MarkupSafe==0.23 \
     --hash=sha256:a4ec1aff59b95a14b45eb2e23761a0179e98319da5a7eb76b56ea8cdc7b871c3
@@ -35,7 +35,7 @@ parsimonious==0.6.2 \
     --hash=sha256:423ae2e16061504418ab7abf0a740e26a781f9bc7674a6cf5e2f11edb4ae8029
 pyelasticsearch==1.4 \
     --hash=sha256:277733776ed538bb2fef4ee3c80d71b9309e6a43d1b891a1dfd06ce9283597a3
-Pygments==2.1.3 \
+Pygments==2.7.4 \
     --hash=sha256:485602129949b14247e8b124d28af4654dffbd076537c4a9c44a538a2c1755b7 \
     --hash=sha256:88e4c8a91b2af5962bfa5ea2447ec6dd357018e86e94c7d14bd8cacbc5b55d81
 https://github.com/erikrose/schema/archive/99dc4130f0f05fd3c2d4bc6663a2419851f3c90f.zip#egg=schema \
@@ -47,10 +47,10 @@ six==1.9.0 \
     --hash=sha256:e24052411fc4fbd1f672635537c3fc2330d9481b18c0317695b46259512c91d5
 tabulate==0.7.5 \
     --hash=sha256:9071aacbd97a9a915096c1aaf0dc684ac2672904cd876db5904085d6dac9810e
-urllib3==1.10.4 \
+urllib3==1.26.5 \
     --hash=sha256:641a40c0c7d144f03584cc11bfa3702b537b1036f3dc39a1905cf2e741d945d6 \
     --hash=sha256:52131e6a561466f1206e1a648d9a73dda2a804d0f70e83782bd88494542ded09
-Werkzeug==0.10.4 \
+Werkzeug==0.15.3 \
     --hash=sha256:a438aa8c3f513a5cf3dda02a62f9e022b7598e9fbfeba14ba2d6dd957c8ab436 \
     --hash=sha256:9d2771e4c89be127bc4bac056ab7ceaf0e0064c723d6b6e195739c3af4fd5c1d
 funcy==1.1 \
@@ -59,7 +59,7 @@ ply==3.6 \
     --hash=sha256:61367b9eb2f4b819f69ea116750305270f1df8859992c9e356d6a851f25a4b47
 xpidl==1.0 \
     --hash=sha256:0b65e75405c104910921d3f621c0a844b06d283383585a30999f0016db14617c
-requests==1.2.3 \
+requests==2.20 \
     --hash=sha256:156bf3ec27ba9ec7e0cf8fbe02808718099d218de403eb64a714d73ba1a29ab1
 python-hglib==2.4 \
     --hash=sha256:693d6ed92a6566e78802c7a03c256cda33d08c63ad3f00fcfa11379b184b9462
