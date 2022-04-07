@@ -25,7 +25,7 @@ Jinja2==2.7.3 \
     --hash=sha256:2e24ac5d004db5714976a04ac0e80c6df6e47e98c354cb2c0d82f8879d4f8fdb
 MarkupSafe==0.23 \
     --hash=sha256:a4ec1aff59b95a14b45eb2e23761a0179e98319da5a7eb76b56ea8cdc7b871c3
-Mercurial==4.2.1 \
+Mercurial==4.9 \
     --hash=sha256:d7d5572f5aa0797fbf2168440eaa51149df88645fe37af8b15fa660d9a8158a0
 more-itertools==2.2 \
     --hash=sha256:93e62e05c7ad3da1a233def6731e8285156701e3419a5fe279017c429ec67ce0
